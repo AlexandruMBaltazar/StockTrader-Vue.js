@@ -1,3 +1,7 @@
+# Stock Trader App
+
+A stock trader front-end app made in vue.js
+
 # vue-cli
 
 > A Vue.js project
